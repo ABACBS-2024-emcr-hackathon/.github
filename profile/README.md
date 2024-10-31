@@ -7,17 +7,16 @@ The hackathon featured multiple challenges in data visualization, programming, a
 ## Organising Committee
 
 The event was organized by the following committee members:
-
-- Calum Walsh (University of Melbourne)
-- Emma de Jong (The University of Western Australia)
+- Yue Cao (The University of Sydney)
+- Hani Jieun Kim (Garvan Institute)
+- Gabriel Foley (The University of Queensland)
+- Jacob Westaway (Menzies School of Health Research)
 - Feargal Ryan (Flinders University & SAHMRI)
-- Gabriel Foley (The University of Queensland) - Co-chair
-- Hani Jieun Kim (Garvan Institute) - Co-chair, ECR rep
-- Jacob Westaway (Menzies School of Health Research) - Co-chair
+- Emma de Jong (The University of Western Australia)
+- Calum Walsh (University of Melbourne)
+- Nicholas Blackburn (University of Tasmania)
 - Josh Lee (University of Melbourne)
 - Mark Bennett (Walter and Eliza Hall Institute)
-- Nicholas Blackburn (University of Tasmania)
-- Yue Cao (The University of Sydney) - ECR rep
 
 ## Theme leads
 
