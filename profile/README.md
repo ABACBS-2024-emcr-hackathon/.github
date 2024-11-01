@@ -23,4 +23,4 @@ The event was organized by the following committee members:
 - Dr. Katherine Pillman (Data visualisation)
 - Associate Prof. Torsten Seemann (Programming)
 - Dr. Shila Ghazanfar (Spatial biology)
-- Prof. Timo Lassman (LLMs in Omics)
+- Associate Prof. Timo Lassman (LLMs in Omics)
