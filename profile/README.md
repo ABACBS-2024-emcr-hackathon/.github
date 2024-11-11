@@ -4,6 +4,14 @@ In 2024, we held the inaugural **ABACBS EMCR Hackathon** on **November 4th** at 
 
 The hackathon featured multiple challenges in data visualization, programming, and omics analyses, offering an opportunity for collaboration, networking, and innovation.
 
+[The output of the visualisation challenge can be found here](https://docs.google.com/presentation/d/1r4VQG42GwWqC2WQFlkRZkAQxdkNVQJDCej4m4eqyydc/edit?usp=sharing)
+
+[The output of the spatial biology challenge be found here](https://docs.google.com/presentation/d/1WaQYOOw9UJdE0qjv0f_a-kAQqriHNAcM8IhdU8capLc/edit#slide=id.g31185f1222a_5_0)
+
+The output of the using LLMs for omics challenge be found over in our repositories.
+
+[The output of the programming challenge can be found here](https://docs.google.com/presentation/d/138FR591E9W47rHXNn7noS0z_0CSVv9vcL4MB5PIVuws/edit?usp=sharing)
+
 ## Organising Committee
 
 The event was organized by the following committee members:
